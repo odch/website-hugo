@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>opendigital</title>
+    <link>https://opendigital.ch/</link>
+    <description>Recent content on opendigital</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="https://opendigital.ch/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Flightbox</title>
+      <link>https://opendigital.ch/flightbox/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opendigital.ch/flightbox/</guid>
+      <description>Die Betreiber der Flugplätze in der Schweiz müssen sämtliche Flugbewegungen, die auf ihrem Flugplatz stattfinden, regelmässig an das Bundesamt für Zivilluftfahrt (BAZL) rapportieren.
+open digital stellt Ihnen mit der Flightbox ein Werkzeug zur Verfügung, mit dessen Hilfe die Piloten ihre Flugbewegungen eigenständig digital erfassen können. Sie, der Betreiber des Flugplatzes, können die erfassten Bewegungen mit einem Knopfdruck exportieren und dem Bundesamt für Zivilluftfahrt zustellen.
+Die open digital Flightbox ist bereits auf folgenden Flugplätzen im Einsatz:</description>
+    </item>
+    
+    <item>
+      <title>open flightmaps</title>
+      <link>https://opendigital.ch/ofm-order/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opendigital.ch/ofm-order/</guid>
+      <description>Die Mission des Projektes ist die Entwicklung und Wartung einer allgemein und weltweit gültigen Datenbasis für aeronautische Daten, um daraus die Erstellung qualitativ hochwertiger Sichtflugkarten und Navigationsdaten für die allgemeine Luftfahrt zu ermöglichen.
+Erfahren Sie mehr über das Projekt unter https://openflightmaps.org/live/ls-switzerland/.
+ Cognito.load(&#34;forms&#34;, { id: &#34;1&#34; });  </description>
+    </item>
+    
+  </channel>
+</rss>
