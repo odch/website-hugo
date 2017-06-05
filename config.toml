@@ -1,4 +1,4 @@
-baseurl             = "https://opendigital.ch/"
+baseurl             = "https://odch.github.io/website-hugo/"
 builddrafts         = false
 canonifyurls        = true
 contentdir          = "content"
