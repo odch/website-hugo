@@ -15,7 +15,7 @@ einer allgemein und weltweit gültigen Datenbasis für aeronautische Daten, um
 daraus die Erstellung qualitativ hochwertiger Sichtflugkarten und
 Navigationsdaten für die allgemeine Luftfahrt zu ermöglichen.
 
-[Erfahren Sie hier mehr](/ofm-order) und bestellen Sie Ihre eigenen Karten.
+[Erfahren Sie hier mehr](/ofm-order/) und bestellen Sie Ihre eigenen Karten.
 
 ## Flightbox
 
@@ -28,7 +28,7 @@ mit dessen Hilfe die Piloten ihre Flugbewegungen eigenständig digital erfassen
 können. Sie, der Betreiber des Flugplatzes, können die erfassten Bewegungen
 mit einem Knopfdruck exportieren und dem Bundesamt für Zivilluftfahrt zustellen.
 
-[Erfahren Sie hier mehr](/flightbox) und setzen Sie die open digital Flightbox
+[Erfahren Sie hier mehr](/flightbox/) und setzen Sie die open digital Flightbox
 auf Ihrem Flugplatz ein.
 
 # Kontakt
