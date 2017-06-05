@@ -3,25 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://odch.github.io/website-hugo/</loc>
+    <loc>https://opendigital.ch/</loc>
   </url>
   
   <url>
-    <loc>https://odch.github.io/website-hugo/categories/</loc>
+    <loc>https://opendigital.ch/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://odch.github.io/website-hugo/flightbox/</loc>
+    <loc>https://opendigital.ch/flightbox/</loc>
   </url>
   
   <url>
-    <loc>https://odch.github.io/website-hugo/tags/</loc>
+    <loc>https://opendigital.ch/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://odch.github.io/website-hugo/ofm-order/</loc>
+    <loc>https://opendigital.ch/ofm-order/</loc>
   </url>
   
 </urlset>
