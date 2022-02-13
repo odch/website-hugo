@@ -16,6 +16,7 @@ Die open digital Flightbox ist bereits auf folgenden Flugplätzen im Einsatz:
 
 * Lommis (LSZT)
 * Speck-Fehraltdorf (LSZK)
+* Wangen-Lachen (LSPV)
 
 Möchten auch Sie die open digital Flightbox auf Ihrem Flugplatz einsetzen,
 kontaktieren Sie uns unter <info@opendigital.ch>.
