@@ -1,14 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>opendigital</title>
     <link>https://opendigital.ch/</link>
     <description>Recent content on opendigital</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    
-	<atom:link href="https://opendigital.ch/index.xml" rel="self" type="application/rss+xml" />
-    
+    <language>en-US</language><atom:link href="https://opendigital.ch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Datenschutzerklärung</title>
+      <link>https://opendigital.ch/datenschutzerklaerung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opendigital.ch/datenschutzerklaerung/</guid>
+      <description>Präambel Mit der folgenden Datenschutzerklärung möchten wir Sie darüber aufklären, welche Arten Ihrer personenbezogenen Daten (nachfolgend auch kurz als &amp;ldquo;Daten“ bezeichnet) wir zu welchen Zwecken und in welchem Umfang verarbeiten. Die Datenschutzerklärung gilt für alle von uns durchgeführten Verarbeitungen personenbezogener Daten, sowohl im Rahmen der Erbringung unserer Leistungen als auch insbesondere auf unseren Webseiten, in mobilen Applikationen sowie innerhalb externer Onlinepräsenzen, wie z.B. unserer Social-Media-Profile (nachfolgend zusammenfassend bezeichnet als &amp;ldquo;Onlineangebot“).</description>
+    </item>
     
     <item>
       <title>Flightbox</title>
@@ -22,14 +27,27 @@ Die open digital Flightbox ist bereits auf folgenden Flugplätzen im Einsatz:</d
     </item>
     
     <item>
+      <title>Impressum</title>
+      <link>https://opendigital.ch/impressum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opendigital.ch/impressum/</guid>
+      <description>Kontakt open digital association
+c/o Philipp Hug
+8400 Winterthur
+Switzerland
+E-Mail: info@opendigital.ch
+GitHub: https://github.com/odch</description>
+    </item>
+    
+    <item>
       <title>open flightmaps</title>
       <link>https://opendigital.ch/ofm-order/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://opendigital.ch/ofm-order/</guid>
       <description>Die Mission des Projektes ist die Entwicklung und Wartung einer allgemein und weltweit gültigen Datenbasis für aeronautische Daten, um daraus die Erstellung qualitativ hochwertiger Sichtflugkarten und Navigationsdaten für die allgemeine Luftfahrt zu ermöglichen.
-Erfahren Sie mehr über das Projekt unter https://openflightmaps.org/live/ls-switzerland/.
- Cognito.load(&#34;forms&#34;, { id: &#34;1&#34; });  </description>
+Erfahren Sie mehr über das Projekt unter https://openflightmaps.org/live/ls-switzerland/.</description>
     </item>
     
   </channel>

@@ -30,7 +30,7 @@
             <nav>
                 <ul>
                     {{ range .Site.Menus.main }}
-                        <li class="nav-{{ .Identifier }}"><a href="{{ .URL | absLangURL }}">{{ .Pre }}<span>{{ .Name }}</span></a></li>
+                        <li class="nav-{{ .Identifier }}"><a href="{{ .URL | absLangURL }}" {{ with .Params.target }} target="{{ . }}"{{ end }}>{{ .Pre }}<span>{{ .Name }}</span></a></li>
                     {{ end }}
                 </ul>
             </nav>
@@ -75,6 +75,15 @@
                 <a href="{{ .Permalink }}"><img class="icon flag" src="/img/flags/{{ .Lang }}.svg"></a>
             {{ end }}
         {{ end }}
+        </div>
+        <div class="legal">
+            {{ if .Site.Params.privacypolicy }}
+            <a href="{{ .Site.Params.privacypolicy }}">Datenschutzerklärung</a>
+            {{ end }}
+
+            {{ if .Site.Params.impressum }}
+            <a href="{{ .Site.Params.impressum }}">Impressum</a>
+            {{ end }}
         </div>
     </div>
 </section>
