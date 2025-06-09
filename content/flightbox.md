@@ -15,6 +15,7 @@ mit einem Knopfdruck exportieren und dem Bundesamt für Zivilluftfahrt zustellen
 Die open digital Flightbox ist bereits auf folgenden Flugplätzen im Einsatz:
 
 * Lommis (LSZT)
+* Mollis (LSZM)
 * Wangen-Lachen (LSPV)
 
 Möchten auch Sie die open digital Flightbox auf Ihrem Flugplatz einsetzen,
